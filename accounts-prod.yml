@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "Juli Ray - Product owner"
-    email: "Juli@eazybank.com"
+    email: "{cipher}ef4683d9f442aa03b48c523231e30419faa6aab80a7073832551f5eb5e7020ba5bb29aae9d6cd0fe7712a201f78909c6"
   onCallSupport:
     - (666) 555-1234
     - (666) 523-134
