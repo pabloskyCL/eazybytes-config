@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank loans related Prod APIs "
+  message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
     name: "Fabio Ray - Product owner"
     email: "Fabio@eazybank.com"
